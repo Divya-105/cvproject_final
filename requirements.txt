@@ -2,3 +2,9 @@ streamlit
 pandas
 numpy
 opencv-python-headless
+os
+matplotlib
+glob
+tempfile
+IPython
+moviepy
